@@ -1,0 +1,21 @@
+{
+  "name": "SOL Coin Token List",
+  "timestamp": "2025-09-15T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "logoURI": "https://raw.githubusercontent.com/SoundofLifeMedia/solc.tokenlist.json/main/assets/8453/0x4b72a11c5dff2232ff55ce5e749b7e64fe028344.png",
+  "keywords": ["solc", "radio", "SOL Coin", "Base", "token"],
+  "tokens": [
+    {
+      "chainId": 8453,
+      "address": "0x4b72a11c5dff2232ff55ce5e749b7e64fe028344",
+      "name": "SOL Coin",
+      "symbol": "SOLC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SoundofLifeMedia/solc.tokenlist.json/main/assets/8453/0x4b72a11c5dff2232ff55ce5e749b7e64fe028344.png"
+    }
+  ]
+}
