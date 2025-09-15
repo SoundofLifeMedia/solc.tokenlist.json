@@ -1,21 +1,22 @@
 {
   "name": "SOL Coin Token List",
-  "timestamp": "2025-09-15T00:00:00Z",
+  "logoURI": "https://raw.githubusercontent.com/SoundofLifeMedia/solc.tokenlist.json/main/assets/8453/0x4B72A11C5DfF2232Ff55Ce5E749b7e64fE028344.png",
+  "keywords": ["solc", "radio", "SOL Coin", "Base", "token"],
+  "timestamp": "2025-09-15T00:00:00+00:00",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "logoURI": "https://raw.githubusercontent.com/SoundofLifeMedia/solc.tokenlist.json/main/assets/8453/0x4b72a11c5dff2232ff55ce5e749b7e64fe028344.png",
-  "keywords": ["solc", "radio", "SOL Coin", "Base", "token"],
   "tokens": [
     {
       "chainId": 8453,
-      "address": "0x4b72a11c5dff2232ff55ce5e749b7e64fe028344",
+      "address": "0x4B72A11C5DfF2232Ff55Ce5E749b7e64fE028344",
       "name": "SOL Coin",
       "symbol": "SOLC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SoundofLifeMedia/solc.tokenlist.json/main/assets/8453/0x4b72a11c5dff2232ff55ce5e749b7e64fe028344.png"
+      "logoURI": "https://raw.githubusercontent.com/SoundofLifeMedia/solc.tokenlist.json/main/assets/8453/0x4B72A11C5DfF2232Ff55Ce5E749b7e64fE028344.png"
     }
   ]
 }
+
